@@ -2,6 +2,8 @@ package _02_06;
 
 public class Ticket {
 
+  public static final String set = null;
+
   public Ticket() {
 
   }

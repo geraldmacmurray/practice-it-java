@@ -30,7 +30,7 @@ public class Ticket {
     return isReturn;
   }
 
-  public void setReturn(boolean isReturn) {
+  public void setIsReturn(boolean isReturn) {
     this.isReturn = isReturn;
   }
 }
