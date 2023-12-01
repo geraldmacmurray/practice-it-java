@@ -8,7 +8,6 @@ public class ForLoops {
     // Write a for loop that prints out the numbers 1 to 10
 
     // Write a for loop that prints out the numbers 10 to 1
-    
 
   }
 
